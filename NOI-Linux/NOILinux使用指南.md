@@ -1,6 +1,6 @@
 # [博客园直链地址](https://www.cnblogs.com/EdisonBa/p/NOI-Linux.html)
 
-（因为有些东西 luogu 的博客加载不出来，所以建议去博客园欣赏)
+（因为有些东西这里加载不出来，所以建议去博客园欣赏)
 
 （不要忘记点赞再走）
 
